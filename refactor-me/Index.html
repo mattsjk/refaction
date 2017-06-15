@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>MK WebApi Demo Application</title>
+    <style>
+        table, td {
+            width: 100%;
+            border: 1px solid darkgray;
+        }
+
+        td {
+            padding-left: 4px;
+        }
+
+        .title {
+            text-align: center;
+        }
+
+        .desc {
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="2" class="title">
+                <h2>WebAPI 2.0 Demo application</h2>
+                <h4>Using Microsoft.Net Framework 4.5 + WebAPI 2 + Log4Net + EntityFramework 6</h4>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <strong>Version 1.0</strong>
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v1/products - Retrieves all products</td>
+            <td>
+                Returns a json list of all the available products.
+                &nbsp;<a href="v1/products">Example</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v1/products/?name={ProductName} - Retrieve all products matching the specified name.</td>
+            <td>
+                Returns the specified product details if found otherwise an empty or null value is returned.
+                &nbsp;<a href="v1/products/?name=Samsung S6">Example</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v1/products/{id} - Retrieve the product that matches the specified ID - ID is a GUID.</td>
+            <td>
+                Returns the specified product details if found otherwise an empty or null value is returned.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">POST: /v1/products - Add a new product.</td>
+            <td>
+                Returns the product details if added successfully.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">PUT: /v1/products/{id} - Update the product that matches the specified ID.</td>
+            <td>
+                Returns the product details if updated successfully.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">DELETE: /v1/products/{id} - Delete the product that matches the specified ID and its options.</td>
+            <td>
+                Returns http status code 204 if deleted successfully.
+            </td>
+        </tr>
+
+        <tr><td colspan="2">&nbsp;</td></tr> <!-- API VERSION 2.0 -->
+        <tr>
+            <td colspan="2">
+                <strong>Version 2.0</strong>
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v2/products - Retrieves all products</td>
+            <td>
+                Returns a json list of all the available products.
+                &nbsp;<a href="v2/products">Example</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v2/products/?name={ProductName} - Retrieve all products matching the specified name.</td>
+            <td>
+                Returns the specified product details if found otherwise an empty or null value is returned.
+                &nbsp;<a href="v2/products/?name=Samsung S6">Example</a>
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v2/products/{id} - Retrieve the product that matches the specified ID - ID is a GUID.</td>
+            <td>
+                Returns the specified product details if found otherwise an empty or null value is returned.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">POST: /v2/products - Add a new product.</td>
+            <td>
+                Returns the product details if added successfully.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">PUT: /v2/products/{id} - Update the product that matches the specified ID.</td>
+            <td>
+                Returns the product details if updated successfully.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">DELETE: /v2/products/{id} - Delete the product that matches the specified ID and its options.</td>
+            <td>
+                Returns http status code 204 if deleted successfully.
+            </td>
+        </tr>
+
+        <tr>
+            <td class="desc">GET: /v2/products/{id}/options - Retrieves all product options</td>
+            <td>
+                Returns the product option details for all the products available.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">GET: /v2/products/{id}/options/{optionid} - Retrieve all product options matching a specified product.</td>
+            <td>
+                Returns the product option details for the specified product.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">POST: /v2/products/{id}/options - Add a new product option to the specified product.</td>
+            <td>
+                Returns the new product option details for the specified product if successful.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">PUT: /v2/products/{id}/options/{optionid} - Update the specified product option for the specified product.</td>
+            <td>
+                Returns the updated product option details for the specified product if successful.
+            </td>
+        </tr>
+        <tr>
+            <td class="desc">DELETE: /v2/products/{id}/options/{optionid} - Delete the specified product option for the specified product.</td>
+            <td>
+                Returns http status code 204 if deleted successfully.
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>

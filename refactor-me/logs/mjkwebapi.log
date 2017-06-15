@@ -1,0 +1,160 @@
+2017-06-15 12:38:56,720-[refactor_me.WebApiConfig] - INFO - Register() - Removing the XML formatter and enabling JSON as default response content type.
+2017-06-15 12:38:56,727-[refactor_me.WebApiConfig] - INFO - Register() - Registering the API routes using Attribute Routing.
+2017-06-15 12:38:56,731-[refactor_me.WebApiConfig] - INFO - Register() - Enabling the API routes for conventional routing.
+2017-06-15 12:39:00,993-[refactor_me.MessageHandlers.ApiKeyHandler] - WARN - SendAsync() - Invalid API Key received.
+2017-06-15 12:41:28,498-[refactor_me.WebApiConfig] - INFO - Register() - Removing the XML formatter and enabling JSON as default response content type.
+2017-06-15 12:41:28,505-[refactor_me.WebApiConfig] - INFO - Register() - Registering the API routes using Attribute Routing.
+2017-06-15 12:41:28,511-[refactor_me.WebApiConfig] - INFO - Register() - Enabling the API routes for conventional routing.
+2017-06-15 12:41:28,841-[refactor_me.MessageHandlers.ApiKeyHandler] - WARN - SendAsync() - Invalid API Key received.
+2017-06-15 12:42:16,692-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:42:16,741-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:43:08,242-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:43:08,321-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - AddProduct() - Added new product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b] and Name:[iPhone 5].
+2017-06-15 12:43:14,368-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:43:14,368-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:43:45,764-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:43:45,779-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b].
+2017-06-15 12:43:47,593-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:43:47,593-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b].
+2017-06-15 12:44:07,061-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:44:07,073-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByName() - Retrieving products with name:[Samsung S6].
+2017-06-15 12:44:07,088-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByName() - Retrieved [1] products with name:[Samsung S6].
+2017-06-15 12:44:53,467-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:44:53,469-[refactor_me.v1.Controllers.ProductsV1Controller] - ERROR - UpdateProduct() - The product ID in the URL:[10e0f102-c1f8-4995-a35a-ac57a7af106b] does not match the product ID for the updated product:[00000000-0000-0000-0000-000000000000].
+2017-06-15 12:46:11,592-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:48:33,011-[refactor_me.WebApiConfig] - INFO - Register() - Removing the XML formatter and enabling JSON as default response content type.
+2017-06-15 12:48:33,018-[refactor_me.WebApiConfig] - INFO - Register() - Registering the API routes using Attribute Routing.
+2017-06-15 12:48:33,023-[refactor_me.WebApiConfig] - INFO - Register() - Enabling the API routes for conventional routing.
+2017-06-15 12:48:43,148-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:48:44,130-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:48:45,011-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:48:45,017-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b].
+2017-06-15 12:48:45,774-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - UpdateProduct() - Updated product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b] and Name:[iPhone 6].
+2017-06-15 12:49:00,576-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:49:00,577-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b].
+2017-06-15 12:49:00,620-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - DeleteProduct() - Product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b] removed successfully.
+2017-06-15 12:49:00,757-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:49:00,758-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b].
+2017-06-15 12:49:00,769-[refactor_me.v1.Controllers.ProductsV1Controller] - WARN - DeleteProduct() - Product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b] not found or unable to retrieve this product.
+2017-06-15 12:49:02,777-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:49:02,777-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b].
+2017-06-15 12:49:02,787-[refactor_me.v1.Controllers.ProductsV1Controller] - WARN - DeleteProduct() - Product with ID:[10e0f102-c1f8-4995-a35a-ac57a7af106b] not found or unable to retrieve this product.
+2017-06-15 12:49:20,526-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:49:20,527-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:49:35,258-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:49:35,261-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:49:36,921-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:49:36,921-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:50:01,022-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:50:01,043-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - AddProduct() - Added new product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63] and Name:[iPhone 5].
+2017-06-15 12:50:24,840-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:50:24,841-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63].
+2017-06-15 12:50:45,413-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:50:45,415-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63].
+2017-06-15 12:50:45,442-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - UpdateProduct() - Updated product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63] and Name:[iPhone 6].
+2017-06-15 12:50:50,084-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:50:50,084-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63].
+2017-06-15 12:51:44,677-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:51:44,689-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - AddProduct() - Added new product with ID:[c9c92b77-f4fe-42b7-9e0b-fb3c8efbbabe] and Name:[Samsung S6].
+2017-06-15 12:51:55,156-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:51:55,166-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving products with name:[Samsung S6].
+2017-06-15 12:51:55,182-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieved [2] products with name:[Samsung S6].
+2017-06-15 12:52:07,403-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:52:07,403-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:52:22,973-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:52:22,974-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63].
+2017-06-15 12:52:22,999-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - DeleteProduct() - Product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63] removed successfully.
+2017-06-15 12:52:32,706-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:52:32,706-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:53:04,125-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:53:04,125-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[7d586a24-2dfb-4589-9d09-4aa2fadc8d63].
+2017-06-15 12:53:13,834-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:53:13,834-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:53:33,722-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:53:33,723-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:53:33,723-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:53:33,735-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and Name:[Samsung S7].
+2017-06-15 12:53:39,684-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:53:39,684-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:53:39,684-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:53:39,696-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:53:50,830-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:53:50,830-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:53:50,830-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:53:50,841-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:53:52,022-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:53:52,022-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:53:52,022-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:53:52,034-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:54:02,779-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:54:02,779-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:54:13,454-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:54:13,454-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:54:13,454-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:54:13,467-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:54:16,387-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:54:16,387-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:54:16,388-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:54:16,399-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:54:17,041-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:54:17,041-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:54:17,041-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:54:17,052-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:57:17,565-[refactor_me.WebApiConfig] - INFO - Register() - Removing the XML formatter and enabling JSON as default response content type.
+2017-06-15 12:57:17,572-[refactor_me.WebApiConfig] - INFO - Register() - Registering the API routes using Attribute Routing.
+2017-06-15 12:57:17,576-[refactor_me.WebApiConfig] - INFO - Register() - Enabling the API routes for conventional routing.
+2017-06-15 12:57:24,262-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:57:24,333-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:57:24,334-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f].
+2017-06-15 12:57:25,030-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[5155f1aa-fffe-46d3-b5c3-135239b42f4f] and Name:[Samsung J5].
+2017-06-15 12:57:35,023-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:57:35,025-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 12:58:08,569-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:58:08,570-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[215b33dd-b792-4a62-86c5-f41eefba629a].
+2017-06-15 12:58:08,570-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[215b33dd-b792-4a62-86c5-f41eefba629a].
+2017-06-15 12:58:08,580-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[215b33dd-b792-4a62-86c5-f41eefba629a] and Name:[Samsung S6].
+2017-06-15 12:58:16,450-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:58:16,450-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:58:16,450-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:58:16,461-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and Name:[Samsung S7].
+2017-06-15 12:58:32,046-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:58:32,047-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductOptionByOptionId() - Retrieving product options for ProductID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and ProductOptionID:[e79a85de-f1a0-4db4-a2cf-0770fcc57077].
+2017-06-15 12:59:17,456-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:59:17,504-[refactor_me.v2.Controllers.ProductsV2Controller] - DEBUG - UpdateProductOption() - Start of method.
+2017-06-15 12:59:17,504-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductOptionByOptionId() - Retrieving product options for ProductID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and ProductOptionID:[e79a85de-f1a0-4db4-a2cf-0770fcc57077].
+2017-06-15 12:59:17,517-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:59:17,552-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - UpdateProductOption() - Updated ProductOption with ID:[e79a85de-f1a0-4db4-a2cf-0770fcc57077] and Name:[Dark Grey].
+2017-06-15 12:59:17,552-[refactor_me.v2.Controllers.ProductsV2Controller] - DEBUG - UpdateProductOption() - End of method.
+2017-06-15 12:59:35,681-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:59:35,682-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductOptionByOptionId() - Retrieving product options for ProductID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and ProductOptionID:[e79a85de-f1a0-4db4-a2cf-0770fcc57077].
+2017-06-15 12:59:35,695-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:59:35,741-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - DeleteProductOption() - ProductOption with ID:[e79a85de-f1a0-4db4-a2cf-0770fcc57077] removed successfully.
+2017-06-15 12:59:48,060-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 12:59:48,060-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:59:48,060-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 12:59:48,071-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and Name:[Samsung S7].
+2017-06-15 12:59:53,319-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 13:00:06,196-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 13:00:06,197-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:00:06,227-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - AddProductOption() - Added new product option with ID:[b85b7a23-2f09-413c-b473-acf229930ab9] and Name:[Dark Grey].
+2017-06-15 13:00:09,413-[refactor_me.MessageHandlers.ApiKeyHandler] - INFO - SendAsync() - API Key [LAN1HTAL-ukhp-es0j-nahc-AHTAMGNUSMAS] received in request.
+2017-06-15 13:00:09,413-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:00:09,413-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:00:09,423-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and Name:[Samsung S7].
+2017-06-15 13:01:41,826-[refactor_me.WebApiConfig] - INFO - Register() - Removing the XML formatter and enabling JSON as default response content type.
+2017-06-15 13:01:41,833-[refactor_me.WebApiConfig] - INFO - Register() - Registering the API routes using Attribute Routing.
+2017-06-15 13:01:41,837-[refactor_me.WebApiConfig] - INFO - Register() - Enabling the API routes for conventional routing.
+2017-06-15 13:01:42,209-[refactor_me.v1.Controllers.ProductsV1Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 13:01:54,476-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 13:02:00,052-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving products with name:[Samsung S6].
+2017-06-15 13:02:00,067-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieved [2] products with name:[Samsung S6].
+2017-06-15 13:02:00,068-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving products with name:[Samsung S6].
+2017-06-15 13:02:00,081-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieved [2] products with name:[Samsung S6].
+2017-06-15 13:02:10,585-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByName() - Retrieving all products.
+2017-06-15 13:02:16,305-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:02:16,305-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:02:16,318-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and Name:[Samsung S7].
+2017-06-15 13:02:29,707-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductOptionByOptionId() - Retrieving product options for ProductID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and ProductOptionID:[25e64a4c-fefa-46df-b5a4-256ba715fcf3].
+2017-06-15 13:02:34,440-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Received request to retrieve all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:02:34,440-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetProductByGuid() - Retrieving product with ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae].
+2017-06-15 13:02:34,468-[refactor_me.v2.Controllers.ProductsV2Controller] - INFO - GetAllProductOptions() - Retrieving all product options for product ID:[739af7f6-a4a8-4f72-ab86-f5d1816940ae] and Name:[Samsung S7].
